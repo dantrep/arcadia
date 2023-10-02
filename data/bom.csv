@@ -1,0 +1,17 @@
+component,vendor,sub_system,unit_cost,unit_count,total
+Motor Controller,RoboteQ,Power Train,997.5,1,997.5
+Electric Motors (x2),HydroGear,Power Train,723,2,1446
+GPU computer,Nvidia Orin,Electronics,2000,1,2000
+Batteries 48V30Ah (x4),Relion,Power Train,899,4,3596
+Battery Charger,DeltaQ,Power Train,560,1,560
+LiDAR-16beam,Robosense,Sensor,2499,1,2499
+GPS system,Swift Navigation,Sensor,2495,1,2495
+Camera - Zed 2i,StereoLabs,Sensor,450,1,450
+Cell Modem,MOFI' Network,Electronics,489,1,489
+SkyLink Sat. Modem,EZ-COM,Electronics,0,0,0
+MultiFunc Antenna (x1),Taoglas,Electronics,230,1,230
+Electronic Enclosure,YuCo,Electronics,508,1,508
+Chassis:Steel & Aluminum,Siouxland Mach,Frame + Chassis,1311,1,1311
+PolyCarb body panels,Lundell Plastics,Frame + Chassis,1200,1,1200
+Misc. Cable harnesses,various/custom,Electronics,1200,1,1200
+"ROB (wheels,fasteners, etc)",various ,Frame + Chassis,1350,1,1350
